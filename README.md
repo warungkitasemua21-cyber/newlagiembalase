@@ -3,7 +3,7 @@
 Versi ini mengikuti **KPI Piutang terbaru dengan Exposure Adjustment** dan sudah dilengkapi:
 
 - Logo PT. SBCR.
-- KPI perusahaan, SPV, Gudang, dan Sales.
+- Monitoring Piutang Embalase Agen, Depo, dan Detail Faktur.
 - Ranking Sales dan SPV dari score terbaik ke terburuk.
 - Filter SPV, Salesman, dan Gudang.
 - Aging & Histori dengan pencarian SPV, Gudang, Aging, customer/faktur, dan Histori Excel.
